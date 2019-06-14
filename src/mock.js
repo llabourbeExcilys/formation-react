@@ -1,7 +1,7 @@
 export const MOCK = [
     {
         id: 0,
-        name: 'Daiquiri',
+        name: 'Daiquirie',
         picture:
             'https://cdn.liquor.com/wp-content/uploads/2016/07/29105024/DAIQUIRI-226x248-mosaic1.jpg',
         description:
